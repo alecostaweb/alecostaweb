@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alecostaweb/alecostaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on @ecausp
+<h1 align="center">Hi 👋, I'm Alessandro</h1>
 
-<h3 align="left">Badges:</h3>
-
-[![An image of @alecostaweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alecostaweb)](https://holopin.io/@alecostaweb) 
-
-<h1 align="center">Hi 👋, I'm Alessandro Costa de Oliveria</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecostaweb&label=Profile%20views&color=0e75b6&style=flat" alt="alecostaweb" /> </p>
@@ -30,13 +23,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on @ecausp 
+
 - 🔭 I’m currently working on [Salas](https://github.com/uspdev/salas)
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
 - 👯 I’m looking to collaborate on [Replicado](https://github.com/uspdev/replicado)
 
-- 👨‍💻 All of my projects are available at [https://github.com/alecostaweb](https://github.com/alecostaweb)
+- 👨‍💻 All of my projects are available at [https://github.com/alecostaweb?tab=repositories](https://github.com/alecostaweb?tab=repositories)
 
 - 💬 Ask me about **Laravel, Drupal, PHP, MySQL, Ubuntu**
 
@@ -52,6 +47,12 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alecostaweb&show_icons=true&locale=en" alt="alecostaweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alecostaweb&" alt="alecostaweb" /></p>
+
+<h3 align="left">Badges:</h3>
+
+[![An image of @alecostaweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alecostaweb)](https://holopin.io/@alecostaweb) 
+
+
 
 
 
