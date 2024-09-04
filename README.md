@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on @ecausp
 
 <!-- [![An image of @alecostaweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alecostaweb)](https://holopin.io/@alecostaweb) -->
-
-<div align="center"> 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
